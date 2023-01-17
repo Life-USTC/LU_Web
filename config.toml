@@ -1,0 +1,11 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh'
+title = 'Life@USTC web'
+theme = "paper"
+[author]
+  name = 'Tiankai Ma'
+copyright = 'MIT License'
+enableRobotsTXT = true
+hasCJKLanguage = true
+[markup.goldmark.renderer]
+  unsafe = true
