@@ -1,0 +1,499 @@
+[
+  {
+    "startDate": 47145600,
+    "courses": [],
+    "endDate": 49737600,
+    "id": "1",
+    "name": "2002年夏季学期"
+  },
+  {
+    "courses": [],
+    "endDate": 68054400,
+    "name": "2002年秋季学期",
+    "id": "2",
+    "startDate": 52502400
+  },
+  {
+    "id": "3",
+    "endDate": 81273600,
+    "name": "2003年夏季学期",
+    "courses": [],
+    "startDate": 78681600
+  },
+  {
+    "endDate": 110217600,
+    "id": "4",
+    "name": "2004年春季学期",
+    "startDate": 99763200,
+    "courses": []
+  },
+  {
+    "endDate": 131212800,
+    "name": "2004年秋季学期",
+    "courses": [],
+    "id": "5",
+    "startDate": 115660800
+  },
+  {
+    "name": "2005年夏季学期",
+    "id": "6",
+    "startDate": 141840000,
+    "endDate": 144432000,
+    "courses": []
+  },
+  {
+    "startDate": 162835200,
+    "id": "7",
+    "endDate": 173289600,
+    "courses": [],
+    "name": "2006年春季学期"
+  },
+  {
+    "endDate": 175968000,
+    "id": "8",
+    "name": "2006年夏季学期",
+    "courses": [],
+    "startDate": 173376000
+  },
+  {
+    "name": "2013年春季学期",
+    "startDate": 383328000,
+    "endDate": 394041600,
+    "courses": [],
+    "id": "9"
+  },
+  {
+    "startDate": 331142400,
+    "endDate": 333734400,
+    "name": "2011年夏季学期",
+    "id": "10",
+    "courses": []
+  },
+  {
+    "id": "11",
+    "endDate": 299520000,
+    "name": "2010年春季学期",
+    "courses": [],
+    "startDate": 289065600
+  },
+  {
+    "id": "12",
+    "name": "2007年秋季学期",
+    "courses": [],
+    "endDate": 225907200,
+    "startDate": 210268800
+  },
+  {
+    "startDate": -10569600,
+    "name": "2000年秋季学期",
+    "endDate": 4982400,
+    "id": "13",
+    "courses": []
+  },
+  {
+    "id": "14",
+    "endDate": 47059200,
+    "name": "2002年春季学期",
+    "courses": [],
+    "startDate": 36604800
+  },
+  {
+    "id": "15",
+    "startDate": 84038400,
+    "endDate": 99676800,
+    "name": "2003年秋季学期",
+    "courses": []
+  },
+  {
+    "startDate": 131299200,
+    "id": "16",
+    "courses": [],
+    "name": "2005年春季学期",
+    "endDate": 141753600
+  },
+  {
+    "name": "2014年秋季学期",
+    "courses": [],
+    "id": "17",
+    "endDate": 444240000,
+    "startDate": 431107200
+  },
+  {
+    "id": "18",
+    "endDate": 425059200,
+    "name": "2014年春季学期",
+    "courses": [],
+    "startDate": 414172800
+  },
+  {
+    "name": "2012年秋季学期",
+    "courses": [],
+    "id": "19",
+    "endDate": 383328000,
+    "startDate": 372614400
+  },
+  {
+    "endDate": 506016000,
+    "name": "2016年秋季学期",
+    "startDate": 494006400,
+    "id": "20",
+    "courses": []
+  },
+  {
+    "startDate": 477676800,
+    "endDate": 488563200,
+    "id": "21",
+    "name": "2016年春季学期",
+    "courses": []
+  },
+  {
+    "startDate": 394128000,
+    "endDate": 396892800,
+    "courses": [],
+    "name": "2013年夏季学期",
+    "id": "22"
+  },
+  {
+    "id": "23",
+    "endDate": 523036800,
+    "startDate": 519494400,
+    "name": "2017年夏季学期",
+    "courses": []
+  },
+  {
+    "id": "24",
+    "name": "2011年春季学期",
+    "courses": [],
+    "startDate": 320601600,
+    "endDate": 331056000
+  },
+  {
+    "id": "25",
+    "courses": [],
+    "startDate": 299606400,
+    "name": "2010年夏季学期",
+    "endDate": 302198400
+  },
+  {
+    "name": "2007年夏季学期",
+    "id": "26",
+    "courses": [],
+    "startDate": 204912000,
+    "endDate": 207504000
+  },
+  {
+    "courses": [],
+    "endDate": 257443200,
+    "name": "2008年秋季学期",
+    "id": "27",
+    "startDate": 241891200
+  },
+  {
+    "courses": [],
+    "id": "28",
+    "endDate": 36518400,
+    "name": "2001年秋季学期",
+    "startDate": 20966400
+  },
+  {
+    "id": "29",
+    "startDate": 68140800,
+    "courses": [],
+    "endDate": 78595200,
+    "name": "2003年春季学期"
+  },
+  {
+    "startDate": 110304000,
+    "name": "2004年夏季学期",
+    "id": "30",
+    "courses": [],
+    "endDate": 112896000
+  },
+  {
+    "id": "31",
+    "endDate": 162748800,
+    "startDate": 147196800,
+    "name": "2005年秋季学期",
+    "courses": []
+  },
+  {
+    "courses": [],
+    "endDate": 350582400,
+    "startDate": 336499200,
+    "name": "2011年秋季学期",
+    "id": "32"
+  },
+  {
+    "startDate": 399744000,
+    "name": "2013年秋季学期",
+    "id": "33",
+    "endDate": 412099200,
+    "courses": []
+  },
+  {
+    "endDate": 475084800,
+    "name": "2015年秋季学期",
+    "id": "34",
+    "courses": [],
+    "startDate": 462556800
+  },
+  {
+    "endDate": 537984000,
+    "id": "35",
+    "courses": [],
+    "startDate": 526060800,
+    "name": "2017年秋季学期"
+  },
+  {
+    "startDate": 350668800,
+    "id": "36",
+    "name": "2012年春季学期",
+    "endDate": 361555200,
+    "courses": []
+  },
+  {
+    "name": "2015年春季学期",
+    "id": "37",
+    "courses": [],
+    "startDate": 446918400,
+    "endDate": 457718400
+  },
+  {
+    "id": "38",
+    "endDate": 519408000,
+    "startDate": 508521600,
+    "courses": [],
+    "name": "2017年春季学期"
+  },
+  {
+    "startDate": 541180800,
+    "name": "2018年春季学期",
+    "id": "39",
+    "endDate": 552067200,
+    "courses": []
+  },
+  {
+    "startDate": 361641600,
+    "name": "2012年夏季学期",
+    "endDate": 365097600,
+    "id": "40",
+    "courses": []
+  },
+  {
+    "courses": [],
+    "name": "2014年夏季学期",
+    "id": "41",
+    "startDate": 425145600,
+    "endDate": 428601600
+  },
+  {
+    "name": "2015年夏季学期",
+    "courses": [],
+    "endDate": 460051200,
+    "id": "42",
+    "startDate": 457804800
+  },
+  {
+    "endDate": 491500800,
+    "name": "2016年夏季学期",
+    "courses": [],
+    "id": "43",
+    "startDate": 488649600
+  },
+  {
+    "name": "2010年秋季学期",
+    "id": "44",
+    "startDate": 304963200,
+    "endDate": 320515200,
+    "courses": []
+  },
+  {
+    "courses": [],
+    "id": "45",
+    "startDate": 257529600,
+    "endDate": 267984000,
+    "name": "2009年春季学期"
+  },
+  {
+    "startDate": 268070400,
+    "courses": [],
+    "name": "2009年夏季学期",
+    "id": "46",
+    "endDate": 270662400
+  },
+  {
+    "endDate": 288979200,
+    "name": "2009年秋季学期",
+    "id": "47",
+    "startDate": 273427200,
+    "courses": []
+  },
+  {
+    "courses": [],
+    "id": "48",
+    "startDate": 178732800,
+    "name": "2006年秋季学期",
+    "endDate": 194284800
+  },
+  {
+    "courses": [],
+    "id": "49",
+    "name": "2007年春季学期",
+    "startDate": 194371200,
+    "endDate": 204825600
+  },
+  {
+    "endDate": 236448000,
+    "name": "2008年春季学期",
+    "id": "50",
+    "startDate": 225993600,
+    "courses": []
+  },
+  {
+    "startDate": 236534400,
+    "id": "51",
+    "courses": [],
+    "endDate": 239126400,
+    "name": "2008年夏季学期"
+  },
+  {
+    "endDate": 15523200,
+    "courses": [],
+    "id": "52",
+    "startDate": 5068800,
+    "name": "2001年春季学期"
+  },
+  {
+    "id": "53",
+    "endDate": 18201600,
+    "startDate": 15609600,
+    "name": "2001年夏季学期",
+    "courses": []
+  },
+  {
+    "name": "2018年秋季学期",
+    "startDate": 557510400,
+    "endDate": 569433600,
+    "courses": [],
+    "id": "62"
+  },
+  {
+    "startDate": 552153600,
+    "name": "2018年夏季学期",
+    "endDate": 554313600,
+    "courses": [],
+    "id": "61"
+  },
+  {
+    "startDate": 603475200,
+    "endDate": 614188800,
+    "name": "2020年春季学期",
+    "id": "141",
+    "courses": []
+  },
+  {
+    "name": "2020年秋季学期",
+    "courses": [],
+    "startDate": 621619200,
+    "id": "181",
+    "endDate": 633542400
+  },
+  {
+    "name": "2021年秋季学期",
+    "courses": [],
+    "id": "221",
+    "endDate": 664387200,
+    "startDate": 652464000
+  },
+  {
+    "id": "101",
+    "courses": [],
+    "endDate": 586195200,
+    "name": "2019年夏季学期",
+    "startDate": 583603200
+  },
+  {
+    "courses": [],
+    "endDate": 600624000,
+    "name": "2019年秋季学期",
+    "id": "121",
+    "startDate": 588960000
+  },
+  {
+    "id": "241",
+    "endDate": 677692800,
+    "startDate": 666979200,
+    "name": "2022年春季学期",
+    "courses": []
+  },
+  {
+    "startDate": 683308800,
+    "name": "2022年秋季学期",
+    "endDate": 695232000,
+    "courses": [],
+    "id": "281"
+  },
+  {
+    "endDate": 712166400,
+    "courses": [],
+    "id": "321",
+    "name": "2023年夏季学期",
+    "startDate": 710611200
+  },
+  {
+    "courses": [],
+    "endDate": 727286400,
+    "startDate": 715363200,
+    "name": "2023年秋季学期",
+    "id": "322"
+  },
+  {
+    "courses": [],
+    "startDate": 730483200,
+    "name": "2024年春季学期",
+    "id": "341",
+    "endDate": 741196800
+  },
+  {
+    "courses": [],
+    "startDate": 614448000,
+    "id": "161",
+    "name": "2020年夏季学期",
+    "endDate": 617212800
+  },
+  {
+    "startDate": 636739200,
+    "courses": [],
+    "endDate": 647452800,
+    "name": "2021年春季学期",
+    "id": "201"
+  },
+  {
+    "startDate": 572630400,
+    "id": "81",
+    "courses": [],
+    "name": "2019年春季学期",
+    "endDate": 583430400
+  },
+  {
+    "endDate": 649267200,
+    "id": "202",
+    "startDate": 647712000,
+    "name": "2021年夏季学期",
+    "courses": []
+  },
+  {
+    "startDate": 677952000,
+    "endDate": 680112000,
+    "name": "2022年夏季学期",
+    "courses": [],
+    "id": "261"
+  },
+  {
+    "courses": [],
+    "endDate": 710352000,
+    "startDate": 699638400,
+    "name": "2023年春季学期",
+    "id": "301"
+  }
+]
